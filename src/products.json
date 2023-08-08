@@ -1,11 +1,11 @@
 [
   {
-    "title": "Product 4",
+    "title": "Product 2",
     "description": "This is a test product",
     "price": 1000,
     "thumbnail": "No image",
-    "code": "005",
+    "code": "002",
     "stock": 10,
-    "id": 1
+    "id": 2
   }
-]
+ ]
